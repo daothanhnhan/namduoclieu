@@ -1,0 +1,205 @@
+.gb-home-product-relate{
+  margin-bottom: 30px;
+  .gb-home-product-relate-title{
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 3px;
+    a{
+      font-size: 16px;
+      font-weight: 700;
+      color: #000;
+      display: inline-block;
+      text-transform:  uppercase;
+      .border{
+        height: 3px;
+        background-color: #000;
+        width: 50%;
+        position: relative;
+        top: 5px;
+      }
+    }
+    .xemthem-list{
+      font-size: 14px;
+      font-weight: 500;
+      font-style: italic;
+      color: #7a7a7a;
+      text-transform: inherit;
+      float:  right;
+      transition:  all 0.5s;
+      &:hover{
+        color: $color-main-miavn;
+      }
+    }
+  }
+  .owl-nav [class*=owl-]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 53px;
+    height: 92px;
+    background: transparent !important;
+    border: none;
+    transition:  all 0.5s;
+    &:hover{
+      background: transparent !important;
+      border-color: $color-main-miavn;
+    }
+  }
+  .owl-nav{
+    margin-top: 0 !important;
+    @media screen and (max-width: 991px) and (min-width: 768px)  {
+      top: -78px;
+    }
+    .owl-prev{
+      position: absolute;
+      top: 45%;
+      left: -60px;
+      display: flex !important;
+      &:before{
+        content: '';
+        background: url("../images/icons/prev.png");
+        width: 27px;
+        height: 39px;
+        font-family: FontAwesome;
+        color: $color-white;
+        font-size: 20px;
+      }
+    }
+    .owl-next{
+      position: absolute;
+      top: 45%;
+      right: -60px;
+      display: flex !important;
+      &:before{
+        content: '';
+        background: url("../images/icons/next.png");
+        width: 27px;
+        height: 39px;
+        font-family: FontAwesome;
+        color: $color-white;
+        font-size: 20px;
+      }
+    }
+  }
+  .prices_ruouvang .prices_ruouvang-news{
+    text-align: center;
+  }
+  .prices_ruouvang .prices_ruouvang-old{
+    text-align: center;
+  }
+  .gb-product_ruouvang-item{
+    padding-bottom: 42px;
+    position: relative;
+    margin-bottom: 0;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    //border-bottom: 0;
+    &:hover{
+      border:  1px solid #ddd;
+      .gb-product_ruouvang-item-yeumua {
+        .btn-muahang {
+          display:  block;
+        }
+      }
+    }
+    &-img{
+      height: 290px;
+      padding-top: 50px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      a{
+        display:  block;
+        img{
+          width: 100%;
+          height: auto;
+          @media screen and (max-width: 767px) {
+            height:  auto;
+          }
+        }
+      }
+      .btn-addtocart_ruouvang{
+        opacity: 0;
+        min-width: 150px;
+        display: inline-block;
+        position: absolute;
+        text-align: center;
+        top: 10%;
+        left: 50%;
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        -ms-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+        padding: 10px 0;
+        -webkit-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s;
+      }
+    }
+    &-text{
+      position: relative;
+      padding: 20px;
+      .brand_mia{
+        color: #000;
+        font-size: 16px;
+        display: block;
+        position: relative;
+        font-weight: 700;
+        text-transform: uppercase;
+        text-align: center;
+      }
+      .percent-mia{
+        position: absolute;
+        z-index: 100;
+        top: 15px;
+        left: 5px;
+      }
+      .gb-gift-miavn{
+        position: absolute;
+        z-index: 100;
+        top: -10px;
+        right: 10px;
+      }
+      h2{
+        a{
+          text-align: center;
+          color: #000;
+          display: -webkit-box;
+          height: 27px;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          font-weight: 500;
+          font-size: 13px;
+          font-family: Roboto,sans-serif;
+          margin-bottom: 5px;
+          letter-spacing: .5px;
+        }
+      }
+      .product-xuatxu-dungtich-percent{
+        margin-bottom: 10px;
+        li{
+          display:  inline-block;
+          width: 32%;
+          font-size: 14px;
+          color: #7a7a7a;
+          line-height: 22px;
+          text-align: center;
+          text-align: center;
+        }
+      }
+    }
+    .gb-product_ruouvang-item-yeumua{
+      .btn-muahang{
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        cursor: pointer;
+        display: none;
+      }
+    }
+  }
+}

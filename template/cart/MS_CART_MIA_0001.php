@@ -1,0 +1,1 @@
+<button class="btn-muahang" onclick="load_url('<?= $row['product_img'] ?>', '<?= $row['friendly_url'] ?>', '<?= $row['product_id'] ?>', '<?= $rowLang['lang_product_name'] ?>', '<?= $row['product_price_sale']; ?>')">Mua ngay</button>

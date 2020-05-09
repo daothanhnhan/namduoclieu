@@ -1,0 +1,1 @@
+<span class="percent-mia">-<?= number_format(($row['product_price']-$row['product_price_sale'])/$row['product_price']*100,0) ?>%</span>

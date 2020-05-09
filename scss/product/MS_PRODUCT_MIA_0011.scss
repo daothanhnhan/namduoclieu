@@ -1,0 +1,21 @@
+.gb-quatang-mia{
+  border: 1px solid #ddd;
+  border-top: 3px solid $color-main-miavn;
+  padding: 15px;
+  h4{
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+    text-transform:  uppercase;
+  }
+  p{
+    font-style: 14px;
+    color: $color-main-miavn;
+  }
+  a{
+    img{
+      width: 100%;
+      height:  auto;
+    }
+  }
+}

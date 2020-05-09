@@ -1,0 +1,59 @@
+.footer-main-content_ruouvang{
+  padding: 50px 0;
+  border-top:  3px solid $color-main-miavn;
+}
+.copyright-area_ruouvang{
+  p{
+    text-align: center;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    padding: 15px 0;
+    color: #fff;
+  }
+}
+.widget-title-footer-miavn{
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  color: #000;
+}
+
+/*footer-about-miavn*/
+.footer-lienhe-miavn{
+  h2{
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+  }
+  ul{
+    padding-left:  20px;
+    li{
+      font-size: 14px;
+      color: #000;
+      line-height: 26px;
+      margin-bottom: 10px;
+      list-style-type: disc;
+      span{
+        font-weight: 700;
+      }
+    }
+  }
+}
+
+/*footer-recentpost-miavn*/
+.footer-link-miavn{
+  ul{
+    li{
+      a{
+        display: block;
+        font-size: 14px;
+        color: $color-white;
+        line-height: 26px;
+      }
+    }
+  }
+}

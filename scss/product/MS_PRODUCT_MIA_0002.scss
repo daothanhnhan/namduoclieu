@@ -1,0 +1,23 @@
+.prices_ruouvang{
+  display:  block;
+  font-size: 16px;
+  line-height: 21px;
+  color: $color-main-miavn;
+  font-weight: 600;
+  text-align: center;
+  .prices_ruouvang-news{
+    display:  block;
+    color: #fc2330;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: .5px;
+  }
+  .prices_ruouvang-old{
+    display:  block;
+    font-size: 13px;
+    text-decoration: line-through;
+    font-weight: 500;
+    color: #000;
+    letter-spacing: .5px;
+  }
+}

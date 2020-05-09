@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed5d1ec5-04a4-414d-8720-938e43de7775" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-476223706">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="php" value="149" />
+          <entry key="scss" value="114" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="PHP" value="149" />
+          <entry key="SCSS" value="114" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="5066" />
+          <entry key="scss" value="2392" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="5066" />
+          <entry key="SCSS" value="2392" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/social/MS_SOCIAL_MIA_0001.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/header/MS_HEADER_MIA_0001.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="279" selection-start-line="16" selection-start-column="279" selection-end-line="16" selection-end-column="279" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/header/MS_HEADER_MIA_0001.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_RUOUVANG_0</find>
+      <find>.gb-header-between_ruouvang</find>
+      <find>gb-header-between_ruouvang</find>
+      <find>gb-header-between_ruouvang\</find>
+      <find>.gb-contact-home_ruouvang</find>
+      <find>accordion-content</find>
+      <find>.prices_ruouvang-old</find>
+      <find>.tab-content</find>
+      <find>col-sm-6</find>
+      <find>.gb-top-header_ruouvang-left</find>
+      <find>col-sm-3</find>
+      <find>gb-thongtinhuuich_ruouvang</find>
+      <find>&lt;i class=&quot;fa fa-angle-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;</find>
+      <find>-ruouvang</find>
+      <find>gb-imagelienquan-miavn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_MIA_0</replace>
+      <replace>col-sm-3</replace>
+      <replace>col-sm-4</replace>
+      <replace>col-sm-3 col-xs-6</replace>
+      <replace>-miavn</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template/news/MS_NEWS_MIA_0007.php" />
+        <option value="$PROJECT_DIR$/scss/sideBar/MS_SIDEBAR_MIA_0012.scss" />
+        <option value="$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0013.php" />
+        <option value="$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0012.php" />
+        <option value="$PROJECT_DIR$/template/news/MS_NEWS_MIA_0001.php" />
+        <option value="$PROJECT_DIR$/scss/news/MS_NEWS_MIA_0001.scss" />
+        <option value="$PROJECT_DIR$/template/news/MS_NEWS_MIA_0002.php" />
+        <option value="$PROJECT_DIR$/scss/news/MS_NEWS_MIA_0002.scss" />
+        <option value="$PROJECT_DIR$/theme/mia/home.php" />
+        <option value="$PROJECT_DIR$/scss/menu/MS_MENU_MIA_0002.scss" />
+        <option value="$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0007.scss" />
+        <option value="$PROJECT_DIR$/scss/news/MS_NEWS_MIA_0003.scss" />
+        <option value="$PROJECT_DIR$/template/news/MS_NEWS_MIA_0003.php" />
+        <option value="$PROJECT_DIR$/scss/search/MS_SEARCH_MIA_0002.scss" />
+        <option value="$PROJECT_DIR$/scss/menu/MS_MENU_MIA_0001.scss" />
+        <option value="$PROJECT_DIR$/template/menu/MS_MENU_MIA_0001.php" />
+        <option value="$PROJECT_DIR$/scss/slideShow/MS_SLIDESHOW_MIA_0001.scss" />
+        <option value="$PROJECT_DIR$/scss/news/MS_NEWS_MIA_0004.scss" />
+        <option value="$PROJECT_DIR$/scss/config.scss" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0007.php" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0008.php" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0009.php" />
+        <option value="$PROJECT_DIR$/scss/others/MS_OTHER_MIA_0001.scss" />
+        <option value="$PROJECT_DIR$/template/others/MS_OTHER_MIA_0001.php" />
+        <option value="$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0002.scss" />
+        <option value="$PROJECT_DIR$/scss/sideBar/MS_SIDEBAR_MIA_0004.scss" />
+        <option value="$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0004.php" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0004.php" />
+        <option value="$PROJECT_DIR$/scss/sideBar/MS_SIDEBAR_MIA_0005.scss" />
+        <option value="$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0005.php" />
+        <option value="$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0003.php" />
+        <option value="$PROJECT_DIR$/scss/sideBar/MS_SIDEBAR_MIA_0003.scss" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0012.php" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0013.php" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0005.php" />
+        <option value="$PROJECT_DIR$/template/cart/MS_CART_MIA_0001.php" />
+        <option value="$PROJECT_DIR$/scss/cart/MS_CART_MIA_0001.scss" />
+        <option value="$PROJECT_DIR$/template/social/MS_SOCIAL_MIA_0001.php" />
+        <option value="$PROJECT_DIR$/scss/social/MS_SOCIAL_MIA_0001.scss" />
+        <option value="$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0004.scss" />
+        <option value="$PROJECT_DIR$/scss/base.scss" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_00015.php" />
+        <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0015.scss" />
+        <option value="$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0005.scss" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0001.php" />
+        <option value="$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0003.php" />
+        <option value="$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0001.scss" />
+        <option value="$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0003.scss" />
+        <option value="$PROJECT_DIR$/template/header/MS_HEADER_MIA_0001.php" />
+        <option value="$PROJECT_DIR$/scss/header/MS_HEADER_MIA_0001.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/plugin/flexnav/package.json" />
+      <path value="$PROJECT_DIR$/plugin/jquery-ui/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="breadcrums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="footer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="sideBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="slideShow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="social" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="breadcrums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="footer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="sideBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="slideShow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="social" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="mia" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cuanhom" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\front-end\mia\scss\product" />
+      <recent name="D:\xampp\htdocs\front-end\mia\template\product" />
+      <recent name="D:\xampp\htdocs\front-end\mia\template\news" />
+      <recent name="D:\xampp\htdocs\front-end\mia\scss\sideBar" />
+      <recent name="D:\xampp\htdocs\front-end\mia\template\sideBar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5d1ec5-04a4-414d-8720-938e43de7775" name="Default Changelist" comment="" />
+      <created>1542080250355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542080250355</updated>
+      <workItem from="1542080251757" duration="10923000" />
+      <workItem from="1542157514549" duration="32151000" />
+      <workItem from="1542244045827" duration="5858000" />
+      <workItem from="1542700189871" duration="4499000" />
+      <workItem from="1542766442821" duration="2947000" />
+      <workItem from="1542850157874" duration="6000" />
+      <workItem from="1542875047923" duration="53000" />
+      <workItem from="1542935146438" duration="1218000" />
+      <workItem from="1543049420236" duration="653000" />
+      <workItem from="1543116674585" duration="616000" />
+      <workItem from="1543118210876" duration="3190000" />
+      <workItem from="1543194849281" duration="599000" />
+      <workItem from="1543367780087" duration="11040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73753000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2911311" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scss/search/MS_SEARCH_MIA_0002.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/menu/MS_MENU_MIA_0001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="113" column="29" lean-forward="true" selection-start-line="113" selection-start-column="29" selection-end-line="113" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/slideShow/MS_SLIDESHOW_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/news/MS_NEWS_MIA_0004.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/menu/MS_MENU_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/news/MS_NEWS_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0007.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0007.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0008.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0009.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="85" column="22" lean-forward="true" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/others/MS_OTHER_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/others/MS_OTHER_MIA_0001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="51" column="45" lean-forward="true" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/mia/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/contact/MS_CONTACT_MIA_0001.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/mia/sanpham.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/sideBar/MS_SIDEBAR_MIA_0004.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/mia/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/mia/chitietsanpham.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/sideBar/MS_SIDEBAR_MIA_0005.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0005.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0006.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0004.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="64" lean-forward="true" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0002.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/sideBar/MS_SIDEBAR_MIA_0003.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="53" column="115" selection-start-line="53" selection-start-column="115" selection-end-line="53" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/sideBar/MS_SIDEBAR_MIA_0003.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0004.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="188" column="61" selection-start-line="188" selection-start-column="61" selection-end-line="188" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0012.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0013.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/cart/MS_CART_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/cart/MS_CART_MIA_0001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0005.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/social/MS_SOCIAL_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/config.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="76" column="15" lean-forward="true" selection-start-line="76" selection-start-column="15" selection-end-line="76" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0015.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0002.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0006.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0007.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0010.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0011.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="181" column="30" lean-forward="true" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/product/MS_PRODUCT_MIA_0003.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="224" column="62" lean-forward="true" selection-start-line="224" selection-start-column="62" selection-end-line="224" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="113" column="9" lean-forward="true" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0003.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="116" column="11" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0004.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0005.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="127" column="27" lean-forward="true" selection-start-line="127" selection-start-column="27" selection-end-line="127" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/product/MS_PRODUCT_MIA_0015.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/social/MS_SOCIAL_MIA_0001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/header/MS_HEADER_MIA_0001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="279" selection-start-line="16" selection-start-column="279" selection-end-line="16" selection-end-column="279" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/header/MS_HEADER_MIA_0001.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

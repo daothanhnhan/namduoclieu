@@ -1,0 +1,23 @@
+.gb-price-chitiet{
+  .price-chitiet{
+    .main-price{
+      font-size: 27px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: #fc6721;
+    }
+    .price-compare{
+      font-weight: 700;
+      color: #000;
+      text-decoration: line-through;
+      margin-left: 5px;
+      font-size: 16px;
+    }
+  }
+  .main-discount{
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+}

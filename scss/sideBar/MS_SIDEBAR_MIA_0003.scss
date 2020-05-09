@@ -1,0 +1,74 @@
+.gb-recenpost-sidebar-miavn{
+  border: 1px solid #e6e7e8;
+  .widget-title-sidebar-miavn{
+    font-size: 14px;
+    font-weight: 600;
+    text-align: left;
+    color: #000;
+    text-transform: uppercase;
+    position: relative;
+    line-height: 40px;
+    padding-left: 10px;
+    background-color: #e6e7e8;
+  }
+  .gb-blog-left-recent-posts_ruouvang{
+    padding: 15px;
+    ul{
+      padding: 0;
+      li{
+        list-style-type: none;
+        clear: both;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-top: 1px solid #eee;
+        &:first-child{
+          padding-top: 0;
+          border:none;
+        }
+        .gb-item-recent-posts_ruouvang{
+          .gb-item-recent-posts_ruouvang-img{
+            float: left;
+            margin-right: 20px;
+            position: relative;
+            img{
+              width: 70px;
+              height:70px;
+              border-radius: 3px;
+            }
+          }
+          .gb-item-recent-posts_ruouvang-text{
+            padding-left: 90px;
+            h2{
+              margin: 0;
+              a{
+                font-size: 14px;
+                font-weight: bold;
+                line-height: 1.57;
+                text-align: left;
+                color: #222222;
+                overflow: hidden;
+                display: block;
+                margin-bottom: 5px;
+                &:hover{
+                  text-decoration: none;
+                  color: $color-main-miavn;
+                }
+              }
+            }
+            .gb-item-recent-post-time_ruouvang{
+              a{
+                display:  block;
+                font-style: italic;
+                font-size: 14px;
+                line-height: 2;
+                text-align: left;
+                color: #aeaeae;
+                text-decoration: underline;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

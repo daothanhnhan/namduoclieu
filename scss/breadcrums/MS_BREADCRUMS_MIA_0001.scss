@@ -1,0 +1,20 @@
+.gb-breadcrumbs_ruouvang{
+  ul{
+    li{
+      list-style: none;
+      display: inline;
+      padding-right: 18px;
+      margin-right: 8px;
+      background: url(../images/icons/duongdan.png) no-repeat right center;
+      &:last-child{
+        background: none;
+      }
+      a{
+        text-decoration: none;
+        color: #333;
+        font-size: 13px;
+        line-height: 40px;
+      }
+    }
+  }
+}

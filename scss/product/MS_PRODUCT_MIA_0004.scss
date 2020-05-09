@@ -1,0 +1,346 @@
+/*SLIDE IMAGE*/
+.gb-chitiet_sanpham_ruouvang-body{
+  .gb-datmuagiaohangtannoi-mia{
+    margin: 15px 0;
+  }
+  .titleCategoryProduct_ruouvang{
+    text-align: center;
+    font-size: 30px;
+    color: $color-main-miavn;
+    margin: 10px 0;
+    text-transform: capitalize;
+    position: relative;
+    margin-bottom: 30px;
+    &:after{
+      position: absolute;
+      bottom: -15px;
+      height: 0;
+      width: 150px;
+      border-bottom: 3px double $color-main-miavn;
+      left: 50%;
+      transform: translateX(-50%);
+      content: "";
+    }
+  }
+  .gb-divider{
+    margin: 20px 0;
+  }
+  .slider-for{
+    background: $color-white;
+    border: 1px solid $color-border;
+    @media screen and (min-width: 992px) {
+      height: 400px;
+      overflow: hidden;
+    }
+    img{
+      width: auto;
+      height: 316px;
+      margin: 0 auto;
+    }
+  }
+  .slide-item-nav{
+    border: 1px solid $color-border;
+    margin: 0 5px;
+    background: #f1f1f1;
+    overflow: hidden;
+  }
+  .slider-nav{
+    margin-top: 10px;
+    .slide-item-nav{
+      background: $color-white;
+      height: 70px;
+      display:  flex;
+      align-items: center;
+      justify-content: center;
+    }
+    img{
+
+    }
+    .img-play{
+      width: 70%;
+    }
+  }
+  .price-outer-container{
+    .prices_ruouvang{
+      text-align: left;
+    }
+  }
+  .gb-thongso-mota{
+    .tab-content{
+      p{
+        display: block;
+        color: #797979;
+        font-size: 14px;
+        font-weight: 400;
+      }
+    }
+  }
+  .prices_ruouvang .prices_ruouvang-old{
+    //font-size: 26px;
+    text-align:  left;
+    //margin-top: 20px;
+  }
+  .prices_ruouvang .prices_ruouvang-news{
+    text-align:  left;
+  }
+  .item-price .old-price{
+    font-size: 16px;
+    text-align:  left;
+  }
+  .price-outer-container{
+    margin-top: 15px;
+    .price_CategoryProduct_Home_1_ruouvang .price_old_ruouvang{
+      font-size: 20px;
+      text-align: left;
+    }
+    .price_CategoryProduct_Home_1_ruouvang .price_old_news{
+      font-size: 24px;
+      text-align: left;
+    }
+  }
+  .gb-luuy-miavn{
+    h4{
+      font-size: 24px;
+      color: $color-main-miavn;
+      text-transform:  uppercase;
+    }
+    p{
+      display: block;
+      color: #797979;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 22px;
+      margin: 15px 0;
+    }
+    a{
+      display: inline-block;
+      color: #fff;
+      font-size: 16px;
+      text-transform: uppercase;
+      background: #c41230;
+      padding: 10px 15px;
+      text-align: center;
+      font-weight:  bold;
+    }
+  }
+}
+/*SLIDE IMAGE*/
+.gb-chitiet_sanpham_ruouvang-left{
+  .gb-chitiet_sanpham_ruouvang_left-info{
+    @media screen and (max-width: 991px) {
+      padding-top: 20px;
+    }
+    h1{
+      font-size: 16px;
+      color: $color-1;
+      font-weight: 600;
+    }
+    .brand-chitiet{
+      color: #333;
+      font-size: 15px;
+      font-weight: 600;
+      margin-top: 10px;
+      span{
+        color: $color-main-miavn;
+      }
+    }
+    .gb-divider{
+      margin:  10px 0;
+    }
+    .description{
+      margin-top: 20px;
+      p{
+        display: block;
+        color: #797979;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22px;
+      }
+    }
+  }
+}
+
+.gb-thongso-mota{
+  .tabbable-line > .nav-tabs {
+    border-bottom: 1px solid $color-main-miavn;
+    margin: 0;
+  }
+  .tabbable-line > .nav-tabs > li {
+    margin-right: 2px;
+    margin-bottom:  0;
+  }
+  .tabbable-line > .nav-tabs > li > a {
+    position:  relative;
+    border: 0;
+    margin-right: 0;
+    color: #7a7a7a;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform:  uppercase;
+    padding: 10px 25px 10px 0;
+    &:after{
+      content: '';
+      width: 100px;
+      height: 2px;
+      background: #000;
+      position: absolute;
+      z-index: 999;
+      bottom: -1px;
+      left:  0;
+      display:  none;
+    }
+  }
+  .tabbable-line > .nav-tabs > li.open, .tabbable-line > .nav-tabs > li:hover {
+    position: relative;
+    border-bottom: none;
+    margin-bottom: -1px;
+  }
+  .tabbable-line > .nav-tabs > li.open > a, .tabbable-line > .nav-tabs > li:hover > a {
+    border: 0;
+    background: none !important;
+    color: $color-main-miavn;
+  }
+  .tabbable-line > .nav-tabs > li.active {
+    position: relative;
+    border-bottom: none;
+    margin-bottom: -1px;
+    a{
+      color: #000;
+      &:after{
+        display:  block;
+      }
+    }
+  }
+  .tabbable-line > .tab-content {
+    margin-top: 20px;
+    background-color: #fff;
+    border: 0;
+  }
+  .portlet .tabbable-line > .tab-content {
+    padding-bottom: 0;
+  }
+  .tab-content{
+    h1 {
+      font-size: 24px;
+      font-weight: 600; }
+
+    h2 {
+      font-size: 22px;
+      font-weight: 600; }
+
+    h3 {
+      font-size: 20px;
+      font-weight: 600; }
+
+    h4 {
+      font-size: 18px;
+      font-weight: 600; }
+
+    h5 {
+      font-size: 16px;
+      font-weight: 600; }
+
+    h6 {
+      font-size: 14px;
+      font-weight: 600; }
+
+    ul li {
+      display: block;
+      color: #333;
+      font-size: 16px;
+      line-height: 26px; }
+
+    p {
+      color: #333;
+      font-size: 16px;
+      line-height: 26px; }
+  }
+}
+
+/*entry meta*/
+.gb-entry-meta{
+  .gb-authour{
+    font-size: 20px;
+    line-height: 1.5;
+    a{
+      color: $color-main-miavn;
+    }
+  }
+  .get-by{
+    font-size: 16px;
+    color: $color-main-miavn;
+    line-height: 1.5;
+  }
+}
+
+/*ENTRY SHIPPING*/
+.gb-entry-shipping{
+  p{
+    font-size: 16px;
+    i{
+      color: $color-main-miavn;
+      font-size: 24px;
+    }
+  }
+}
+
+//share
+.product-share-block{
+  .share-heading{
+    font-size: 18px;
+    color: $color-grey;
+    float:  left;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+  ul{
+    li{
+      display:  inline-block;
+      a{
+        width: 40px;
+        height: 40px;
+        border: 1px solid $color-main-miavn;
+        color: $color-main-miavn;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition:  all 0.5s;
+        &:hover{
+          background:  $color-main-miavn;
+          color: $color-white;
+        }
+      }
+    }
+  }
+}
+
+
+.gb-imagelienquan-miavn{
+  margin-top: 60px;
+  ul{
+    display: flow-root;
+    li{
+      width: 14.2%;
+      float:  left;
+    }
+  }
+}
+.gb-hotline-chitiet{
+  text-align: center;
+  padding-top: 10px;
+  line-height: 24px;
+}
+
+.gb-danhgia-chititet{
+  margin-top: 15px;
+  .danhgia-star{
+    li{
+      display: inline-block;
+      font-size: 15px;
+      font-weight: bold;
+      span{
+        color: $color-main-miavn;
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.gb-thuonghieu_mia{
+    padding: 50px 0;
+    h3{
+        font-size: 20px;
+        text-transform: uppercase;
+        color: #7a7a7a;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    ul{
+        display: flow-root;
+        li{
+            width: 14.2%;
+            float: left;
+            a{
+                display:  block;
+                font-size: 14px;
+                color: #7a7a7a;
+                font-style: italic;
+                line-height: 30px;
+            }
+        }
+    }
+}

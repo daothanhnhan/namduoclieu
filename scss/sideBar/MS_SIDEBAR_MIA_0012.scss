@@ -1,0 +1,83 @@
+.gb-danhmuctintuc-sidebar-miavn{
+  .widget-title-sidebar-miavn{
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+    line-height: 1.4;
+    position: relative;
+    padding: 0 0 5px;
+    &:after{
+      content: '';
+      display: block;
+      width: 50px;
+      height: 3px;
+      background: #e8202d;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+    }
+  }
+  .gb-blog-left-recent-posts_ruouvang{
+    ul{
+      padding: 0;
+      li{
+        list-style-type: none;
+        clear: both;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-top: 1px solid #eee;
+        &:first-child{
+          padding-top: 0;
+          border:none;
+        }
+        .gb-item-recent-posts_ruouvang{
+          .gb-item-recent-posts_ruouvang-img{
+            float: left;
+            margin-right: 20px;
+            position: relative;
+            img{
+              width: 70px;
+              height:70px;
+              border-radius: 3px;
+            }
+          }
+          .gb-item-recent-posts_ruouvang-text{
+            padding-left: 90px;
+            h2{
+              margin: 0;
+              a{
+                font-size: 14px;
+                font-weight: bold;
+                line-height: 1.57;
+                text-align: left;
+                color: #222222;
+                overflow: hidden;
+                display: block;
+                margin-bottom: 10px;
+                &:hover{
+                  text-decoration: none;
+                  color: $color-main-miavn;
+                }
+              }
+            }
+            .gb-item-recent-post-time_ruouvang{
+              span{
+                .fa{
+                  font-family: 'FontAwesome';
+                  font-size: 14px;
+                  text-align: left;
+                  color: $color-main-miavn;
+                  margin-right: 10px;
+                }
+                font-size: 13px;
+                line-height: 2;
+                text-align: left;
+                color: #aeaeae;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

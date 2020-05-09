@@ -1,0 +1,179 @@
+.gb-tintuc-lienquan{
+  .gb-tintuc-lienquan-title{
+    font-size: 1.25rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    &:after{
+      content: '';
+      display: block;
+      width: 50px;
+      height: 2px;
+      background: #e8202d;
+      margin-top: 5px;
+    }
+  }
+  .gb-tintuc-lienquan-postlist{
+    .gb-tintuc-lienquan-post{
+      padding: 10px 0;
+      border-bottom: 1px dashed #e6e6e6;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -moz-flex;
+      display: -ms-flexbox;
+      display: flex;
+      flex-wrap: wrap;
+      time{
+        width: 85px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 0.75rem;
+        background: #e6e6e6;
+        color: #333;
+        font-weight: 500;
+        padding: 0px 8px;
+        border-radius: 3px;
+        margin-bottom: 5px;
+        text-align: center;
+      }
+      .gb-tintuc-lienquan-postname{
+        width: calc(100% - 85px);
+        line-height: 1.5;
+        padding-left: 15px;
+        a{
+          line-height: 1.5;
+          padding-left: 15px;
+          color: #000;
+        }
+      }
+    }
+  }
+
+  .gb-newscategory-vaxin-big{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+    height: 423px;
+    border: 1px solid #e6e6e6;
+    .itemimg-newscategory-vaxin{
+      height: 240px;
+      overflow: hidden;
+      img{
+        width: 100%;
+        height: auto;
+      }
+    }
+    .itemtext-newscategory-vaxin{
+      padding: 15px;
+      h3{
+        font-size: 1.125rem;
+        font-weight: 500;
+        line-height: 1.4;
+        height: 2.5rem;
+        margin-bottom: 10px;
+        overflow:  hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        a{
+          display: block;
+          font-size: 20px;
+          line-height: 20px;
+          color: $color-main-miavn;
+          font-weight: 500;
+          position: relative;
+        }
+      }
+      .item-time_vaxin{
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 1.4;
+        display: block;
+        color: #999999;
+        margin: 0 0 5px;
+        padding: 0 0 5px;
+        border-bottom: 1px solid #e6e6e6;
+      }
+      p{
+        font-size: 14px;
+        line-height: 25px;
+        color: #777777;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        overflow: hidden;
+      }
+      .itemxemthem_vaxin{
+        display:  inline-block;
+        padding: 10px 20px;
+        color: $color-main-miavn;
+        background: $color-main1-miavn;
+        margin-top: 20px;
+        border: 1px solid $color-main1-miavn;
+        font-weight: 600;
+        font-size: 14px;
+        text-transform:  uppercase;
+        transition:  all 0.5s;
+        &:hover{
+          color: $color-main1-miavn;
+          background: $color-main-miavn;
+          border-color: $color-main-miavn;
+        }
+      }
+    }
+  }
+
+
+  .owl-nav [class*=owl-]{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 53px;
+    height: 92px;
+    background: transparent !important;
+    border: none;
+    transition:  all 0.5s;
+    &:hover{
+      background: transparent !important;
+      border-color: $color-main-miavn;
+    }
+  }
+
+  .owl-nav{
+    margin-top: 0 !important;
+    @media screen and (max-width: 991px) and (min-width: 768px)  {
+      top: -78px;
+    }
+    .owl-prev{
+      position: absolute;
+      top: 45%;
+      left: -60px;
+      display: flex !important;
+      &:before{
+        content: '';
+        background: url("../images/icons/md-left.svg");
+        width: 37px;
+        height: 91px;
+        font-family: FontAwesome;
+        color: $color-white;
+        font-size: 20px;
+      }
+    }
+    .owl-next{
+      position: absolute;
+      top: 45%;
+      right: -60px;
+      display: flex !important;
+      &:before{
+        content: '';
+        background: url("../images/icons/md-right.svg");
+        width: 37px;
+        height: 91px;
+        font-family: FontAwesome;
+        color: $color-white;
+        font-size: 20px;
+      }
+    }
+  }
+}

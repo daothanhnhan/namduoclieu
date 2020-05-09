@@ -1,0 +1,35 @@
+.gb-contact-home_ruouvang{
+  background: $color-main-miavn;
+  text-align: center;
+  padding: 20px 0;
+  .gb-contact-home_ruouvang-title{
+    h2{
+      font-size: 24px;
+      font-weight: bold;
+      color: #fff;
+      text-transform: uppercase;
+      text-align: center;
+    }
+  }
+  p{
+    font-size: 20px;
+    color: #fff;
+    line-height: 24px;
+    text-align: left;
+    //margin: 30px 0;
+    span{
+      color: $color-main-miavn;
+      font-weight: 600;
+      font-size: 20px;
+    }
+  }
+  a{
+    display: inline-block;
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    background: #c41230;
+    padding: 10px 25px;
+    text-align: center;
+  }
+}

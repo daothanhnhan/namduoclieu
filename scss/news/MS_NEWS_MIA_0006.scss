@@ -1,0 +1,155 @@
+.gb-newscategory-vaxin{
+  padding:  50px 0;
+  .gb-newscategory-vaxin-item{
+    margin-bottom: 30px;
+    .gb-newscategory-vaxin-title{
+      margin-bottom: 30px;
+      border-bottom: 3px solid $color-main-miavn;
+      h2{
+        a{
+          display: block;
+          color: #333;
+          font-size: 20px;
+          font-weight: 600;
+          text-transform:  uppercase;
+        }
+      }
+    }
+    .gb-newscategory-vaxin-big{
+      margin-bottom: 30px;
+      .itemimg-newscategory-vaxin{
+        height: 273px;
+        overflow: hidden;
+        img{
+          width: 100%;
+          height: auto;
+        }
+      }
+      .itemtext-newscategory-vaxin{
+        padding-top: 15px;
+        h3{
+          font-size: 1.125rem;
+          font-weight: 500;
+          line-height: 1.4;
+          height: 2.5rem;
+          margin-bottom: 10px;
+          overflow:  hidden;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 2;
+          overflow: hidden;
+          a{
+            display: block;
+            font-size: 20px;
+            line-height: 20px;
+            color: $color-main-miavn;
+            font-weight: 500;
+            position: relative;
+          }
+        }
+        .item-time_vaxin{
+          font-size: 14px;
+          font-weight: 500;
+          line-height: 1.4;
+          display: block;
+          color: #999999;
+          margin: 0 0 5px;
+          padding: 0 0 5px;
+          border-bottom: 1px solid #e6e6e6;
+        }
+        p{
+          font-size: 14px;
+          line-height: 25px;
+          color: #777777;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 3;
+          overflow: hidden;
+        }
+        .itemxemthem_vaxin{
+          display:  inline-block;
+          padding: 10px 20px;
+          color: $color-main-miavn;
+          background: $color-main1-miavn;
+          margin-top: 20px;
+          border: 1px solid $color-main1-miavn;
+          font-weight: 600;
+          font-size: 14px;
+          text-transform:  uppercase;
+          transition:  all 0.5s;
+          &:hover{
+            color: $color-main1-miavn;
+            background: $color-main-miavn;
+            border-color: $color-main-miavn;
+          }
+        }
+      }
+    }
+    .gb-newscategory-vaxin-small{
+      ul{
+        li{
+          margin-bottom: 10px;
+          &:last-child{
+            padding-bottom: 0;
+            margin-bottom: 0;
+            border-bottom:  none;
+          }
+          .item_tintucslideshow_vaxin{
+            display: flex;
+            .item-img_vaxin{
+              width: 25%;
+              float: left;
+              img{
+                width: 100%;
+                height: auto;
+              }
+            }
+            .item-text_vaxin{
+              width: 75%;
+              float: left;
+              padding-left: 15px;
+              h3{
+                font-weight: 500;
+                line-height: 1.4;
+                height: 2.5rem;
+                margin-bottom: 10px;
+                overflow:  hidden;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+                overflow: hidden;
+                a{
+                  display: block;
+                  font-size: 15px;
+                  line-height: 20px;
+                  color: $color-main-miavn;
+                  font-weight: 500;
+                  position: relative;
+                }
+              }
+              .item-time_vaxin{
+                font-size: 14px;
+                font-weight: 500;
+                line-height: 1.4;
+                display: block;
+                color: #999999;
+                margin: 0 0 5px;
+                padding: 0 0 5px;
+                border-bottom: 1px solid #e6e6e6;
+              }
+              p{
+                font-size: 14px;
+                line-height: 25px;
+                color: #777777;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 2;
+                overflow: hidden;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

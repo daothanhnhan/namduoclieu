@@ -1,0 +1,44 @@
+.gb-timchungtoitrenmangxahoi-mia{
+  padding: 50px 0;
+  h2{
+    font-size: 27px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    background: 0 0;
+    text-align: center;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+  }
+  ul{
+    li{
+      border-right: 1px solid #ddd;
+      &:last-child{
+        border-right: none;
+      }
+      text-align: center;
+      .gb-timchungtoitrenmangxahoi-mia-item{
+        .gb-timchungtoitrenmangxahoi-mia-item-icons{
+          font-size: 36px;
+          margin-bottom: 15px;
+        }
+      }
+      p{
+        margin-bottom: 15px;
+      }
+      a{
+        display: block;
+        color: $color-white;
+        font-weight: 700;
+        font-size: 15px;
+        text-transform: uppercase;
+        transition:  all 0.5s;
+        &:hover{
+          color: $color-main1-miavn;
+        }
+        img{
+          margin:  0 auto;
+        }
+      }
+    }
+  }
+}
